@@ -19,7 +19,7 @@ spec:
         app: accounts
     spec:
       containers:
-      - image: IMAGE_NAME_HERE
+      - image: 
         name: accounts
         resources: {}
 
